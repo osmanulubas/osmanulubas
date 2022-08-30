@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Osman Ulubas, a Software Developer (specializing in **Automation and Zero Touch Provisining**) and a DevOps Engineer. I am also Pursuing my MBA and will graduate in early-2023.
+🎓 I am Osman Ulubas, currently located in Seattle, a Software Developer (specializing in **Automation and Zero Touch Provisining**) and a DevOps Engineer. I am also Pursuing my MBA and will graduate in early-2023.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **skiing**, **movies** and **sports**.
 
