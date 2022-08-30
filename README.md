@@ -37,7 +37,7 @@
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### Currently achieved CPC at AWS
+### Currently achieved CPC at AWS (CREDLY LINK)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/54f0bf66-32d4-49eb-afbc-c1387e727934/linked_in_profile)
 
 ## 🖥️ Workspace Setup
