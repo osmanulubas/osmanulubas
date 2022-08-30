@@ -42,7 +42,9 @@ Podman Kubernetes
 ![i7-8th-gen](https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![macbook](https://img.shields.io/badge/M1 Apple-MacBook_Air_2021-999999?style=for-the-badge&logo=apple&logoColor=white)
+![macbook](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macbook](https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
+
 
 ## 📈 Stats
 
