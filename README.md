@@ -28,9 +28,9 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 ### Container Platforms
-![Docker](https://img.shields.io/badge/-%20%20Docker-informational)
-![Podman](https://img.shields.io/badge/-%20%20Podman-brown)
-![Kubernetes](https://img.shields.io/badge/-%20%20Kubernetes-blue)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Podman](https://img.shields.io/badge/-Podman-000?&logo=Podman)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 
 ### Cloud Computing
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
