@@ -20,14 +20,16 @@
 ![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Configuration Management
-Ansible
+![Ansible](https://img.shields.io/badge/-%20%20Ansible-white)
 
 ### Continuous Integration
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 ### Container Platforms
-![Docker](https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png)
-Podman Kubernetes
+![Docker](https://img.shields.io/badge/-%20%20Docker-informational)
+![Podman](https://img.shields.io/badge/-%20%20Podman-brown)
+![Kubernetes](https://img.shields.io/badge/-%20%20Kubernetes-blue)
+
 
 ### Cloud Computing
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -35,15 +37,15 @@ Podman Kubernetes
 ![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Currently achieved CPC at AWS
-![AWS](https://www.credly.com/badges/54f0bf66-32d4-49eb-afbc-c1387e727934/linked_in_profile)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+https://www.credly.com/badges/54f0bf66-32d4-49eb-afbc-c1387e727934/linked_in_profile
 
 ## 🖥️ Workspace Setup
-![lenovo](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=lenovo x1 carbon 2019&logoColor=white)
-![i7-8th-gen](https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![lenovo](https://img.shields.io/badge/Lenovo_X1_Carbon-red)
+![macbook](https://img.shields.io/badge/Apple-MacBook_Air_2021-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![macbook](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![macbook](https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
+
+
 
 
 ## 📈 Stats
