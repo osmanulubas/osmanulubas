@@ -14,6 +14,8 @@
 
 ### Languages
 
+[![LeetCode user osmanulubas](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fosmanulubas&logo=leetcode&logoColor=yellow)](https://leetcode.com/osmanulubas/)
+
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](	https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
