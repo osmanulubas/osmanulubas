@@ -30,23 +30,18 @@
 ![Podman](https://img.shields.io/badge/-%20%20Podman-brown)
 ![Kubernetes](https://img.shields.io/badge/-%20%20Kubernetes-blue)
 
-
 ### Cloud Computing
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Currently achieved CPC at AWS
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-https://www.credly.com/badges/54f0bf66-32d4-49eb-afbc-c1387e727934/linked_in_profile
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/54f0bf66-32d4-49eb-afbc-c1387e727934/linked_in_profile)
 
 ## 🖥️ Workspace Setup
 ![lenovo](https://img.shields.io/badge/Lenovo_X1_Carbon-red)
 ![macbook](https://img.shields.io/badge/Apple-MacBook_Air_2021-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-
-
 
 ## 📈 Stats
 
