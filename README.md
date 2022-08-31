@@ -57,8 +57,8 @@
 -   [AZ-900 Microsoft Azure Fundamentals](https://verify.acloud.guru/958F9DDB0B20?_ga=2.24277938.965569758.1661884366-1024788358.1659802675&_gac=1.263010686.1660380996.Cj0KCQjwl92XBhC7ARIsAHLl9akBhxO_footyvDOhxS7kXs8F3ehAoW2-y90ZRfexCYfwSx8Hk6Rs0kaApMkEALw_wcB)
 -   [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/GUDJDJEWHHGW)
 -   [The Complete 2022 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/)
+-   [Learn Ansible by Doing](https://verify.acloud.guru/754A7AE7ED12)
 
-Learn Ansible by Doing https://verify.acloud.guru/754A7AE7ED12
 ## 📈 Stats
 
 <div align="center">
