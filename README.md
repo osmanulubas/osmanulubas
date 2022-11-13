@@ -9,10 +9,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osmanulubas" height="30" width="40" /> </a>
-<a href="https://linkedin.com/in/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmanulubas" height="30" width="40" /> </a>
-<a href="https://instagram.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osmanulubas" height="30" width="40" /> </a>
-<a href="https://www.leetcode.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osmanulubas" height="30" width="40" /> </a>
+<a href="https://twitter.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osmanulubas" height="40" width="40" /> </a>
+<a href="https://linkedin.com/in/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmanulubas" height="40" width="40" /> </a>
+<a href="https://instagram.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osmanulubas" height="40" width="40" /> </a>
+<a href="https://www.leetcode.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osmanulubas" height="40" width="40" /> </a>
 </p>
 
 ----
@@ -22,51 +22,51 @@
 [![LeetCode user osmanulubas](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fosmanulubas&logo=leetcode&logoColor=yellow)](https://leetcode.com/osmanulubas/)
 
 <p align="left"> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="30" /> </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="30" /> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30" /> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30" /> </a> </p>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a> 
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /> </a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> </p>
 
 <h3 align="left">Container Platforms</h3>
 <p align="left">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="30"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="30"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Monitoring</h3>
 <p align="left">
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="30"/> </a>
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Continuous Integration</h3>
 <p align="left">
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="30"/> </a>
-<a href="https://www.gitlab.com" target="blank"><img src="https://raw.githubusercontent.com/osmanulubas/profile/master/gitlab.svg" alt="osmanulubas" height="30" width="40" /></a>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+<a href="https://www.gitlab.com" target="blank"><img src="https://raw.githubusercontent.com/osmanulubas/profile/master/gitlab.svg" alt="osmanulubas" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Runner Platforms</h3>
 <p align="left">
-<a href="https://www.ubuntu.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/osmanulubas/profile/master/ubuntu48.png" alt="ubuntu" width="40" height="30"/> </a> 
-<a href="https://www.windows.com" target="blank"><img src="https://raw.githubusercontent.com/osmanulubas/profile/master/windows10.svg" alt="windows10" height="30" width="40" /></a> 
-<a href="https://www.apple.com" target="blank"><img src="https://raw.githubusercontent.com/osmanulubas/profile/master/macmini48.png" alt="macmini" height="30" width="40" /></a>
-<a href="https://www.opensuse.com" target="blank" ><img src="https://raw.githubusercontent.com/osmanulubas/profile/master/suse.png" alt="opensuse" height="30" width="40" /></a>
-<a href="https://www.redhat.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/osmanulubas/profile/master/redhat.png" target="blank" width="40" height="30"/> </a>
-<a href="https://www.centos.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/osmanulubas/profile/master/centos.png" alt="gcp" width="40" height="30"/> </a>
+<a href="https://www.ubuntu.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/osmanulubas/profile/master/ubuntu48.png" alt="ubuntu" width="40" height="40"/> </a> 
+<a href="https://www.windows.com" target="blank"><img src="https://raw.githubusercontent.com/osmanulubas/profile/master/windows10.svg" alt="windows10" height="40" width="40" /></a> 
+<a href="https://www.apple.com" target="blank"><img src="https://raw.githubusercontent.com/osmanulubas/profile/master/macmini48.png" alt="macmini" height="40" width="40" /></a>
+<a href="https://www.opensuse.com" target="blank" ><img src="https://raw.githubusercontent.com/osmanulubas/profile/master/suse.png" alt="opensuse" height="40" width="40" /></a>
+<a href="https://www.redhat.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/osmanulubas/profile/master/redhat.png" target="blank" width="40" height="40"/> </a>
+<a href="https://www.centos.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/osmanulubas/profile/master/centos.png" alt="gcp" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Configuration Management</h3>
 <p align="left">
-<a href="https://www.ansible.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/osmanulubas/profile/master/ansible.svg" alt="ansible" width="40" height="30"/> </a>
-<a href="https://www.terraform.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/osmanulubas/profile/master/terraform.svg" alt="terraform" width="40" height="30"/> </a>
+<a href="https://www.ansible.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/osmanulubas/profile/master/ansible.svg" alt="ansible" width="40" height="40"/> </a>
+<a href="https://www.terraform.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/osmanulubas/profile/master/terraform.svg" alt="terraform" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Computing</h3>
 <p align="left">
-<a href="https://aws.amazon.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/osmanulubas/profile/master/amazon.svg" alt="amazon" width="40" height="30"/> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="30"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="30"/> </a>
-<a href="https://www.virtualbox.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/osmanulubas/profile/master/virtualbox.svg" alt="virtualbox" width="40" height="30"/></a>
-<a href="https://www.vmware.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/osmanulubas/profile/master/vmware.svg" alt="vmware" width="40" height="30"/></a>
+<a href="https://aws.amazon.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/osmanulubas/profile/master/amazon.svg" alt="amazon" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://www.virtualbox.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/osmanulubas/profile/master/virtualbox.svg" alt="virtualbox" width="40" height="40"/></a>
+<a href="https://www.vmware.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/osmanulubas/profile/master/vmware.svg" alt="vmware" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Certificates</h3>
