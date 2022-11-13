@@ -1,24 +1,81 @@
-<h1 align="center">Hi 👋, I'm Osman</h1>
-<h3 align="center">A passionate DevOps Engineer in Seattle</h3>
+# Hi there! I'm Osman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+<h3 align="center">A passionate Software Developer and DevOps Engineer from Seattle</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osmanulubas&label=Profile%20views&color=0e75b6&style=flat" alt="osmanulubas" /> </p>
+- 🔭 Currently working at **Tecplot Bellevue**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osmanulubas" alt="osmanulubas" /></a> </p>
+- 🌱 Currently learning **Kubernetes**
 
-- 🔭 I’m currently working at **Tecplot**
+----
 
-- 🌱 I’m currently learning **Kubernetes**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osmanulubas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmanulubas" height="30" width="40" /></a>
-<a href="https://instagram.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osmanulubas" height="30" width="40" /></a>
-<a href="https://medium.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="osmanulubas" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osmanulubas" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osmanulubas" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmanulubas" height="30" width="30" /></a>
+<a href="https://instagram.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osmanulubas" height="30" width="30" /></a>
+<a href="https://medium.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="osmanulubas" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osmanulubas" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+----
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osmanulubas&show_icons=true&locale=en&layout=compact" alt="osmanulubas" /></p>
+<h3 align="left">Languages:</h3>
+
+[![LeetCode user osmanulubas](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fosmanulubas&logo=leetcode&logoColor=yellow)](https://leetcode.com/osmanulubas/)
+
+<p align="left"> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="40" /> </a> 
+  
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="40" /> </a>  
+
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="40" /> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="40" /> </a> </p>
+
+<h3 align="left">Container Platforms</h3>
+<p align="left">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a><a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/> </a></p>
+
+<h3 align="left">Monitoring</h3>
+<p align="left">
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="30" height="30"/> </a></p>
+
+<h3 align="left">Continuous Integration</h3>
+<p align="left">
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/> </a></p>
+
+<h3 align="left">Configuration Management</h3>
+<p align="left">
+<a href="https://www.ansible.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="30" height="30"/> </a></p>
+
+<h3 align="left">Cloud Computing</h3>
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/> </a><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/> </a>
+</p>
+
+<h3 align="left">Certificates</h3>
+<p align="left"></p>
+
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/54f0bf66-32d4-49eb-afbc-c1387e727934/linked_in_profile)
+
+----
+
+## 📝 Courses Completed
+
+-   [HashiCorp Certified Terraform Associate](https://verify.acloud.guru/EF778782A105)
+-   [Building Modern Clouds: Docker, DevOps & Kubernetes](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/)
+-   [AWS Certified Cloud Practitioner 2020](https://verify.acloud.guru/DC53D8CCF5BB)
+-   [Building a Full-Stack Serverless Application on AWS](https://verify.acloud.guru/25098945D562)
+-   [Certified Kubernetes Administrator (CKA)](https://verify.acloud.guru/FF8E7D2191A4?_ga=2.24277938.965569758.1661884366-1024788358.1659802675&_gac=1.263010686.1660380996.Cj0KCQjwl92XBhC7ARIsAHLl9akBhxO_footyvDOhxS7kXs8F3ehAoW2-y90ZRfexCYfwSx8Hk6Rs0kaApMkEALw_wcB)
+-   [Certified Jenkins Engineer](https://verify.acloud.guru/D9F7F0B7DF80)
+-   [AZ-900 Microsoft Azure Fundamentals](https://verify.acloud.guru/958F9DDB0B20?_ga=2.24277938.965569758.1661884366-1024788358.1659802675&_gac=1.263010686.1660380996.Cj0KCQjwl92XBhC7ARIsAHLl9akBhxO_footyvDOhxS7kXs8F3ehAoW2-y90ZRfexCYfwSx8Hk6Rs0kaApMkEALw_wcB)
+-   [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/GUDJDJEWHHGW)
+-   [The Complete 2022 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/)
+-   [Learn Ansible by Doing](https://verify.acloud.guru/754A7AE7ED12)
+
+## 📈 Stats
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=osmanulubas&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=osmanulubas&show_icons=true&hide_border=true" alt="Osman Ulubas's GitHub Stats">
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=osmanulubas.osmanulubas" alt="visitors">
+</div>
