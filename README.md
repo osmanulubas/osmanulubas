@@ -8,7 +8,7 @@
 
 📚 I also love reading **comic books** and **fantasy fiction genres**.
 
-✈️ I love **traveling** too. I have been on solo trips to **Niagra Falls** in 2015 and to **Key West,FL** in 2016.
+✈️ I love **traveling**. I have been on solo trips to **Niagra Falls** in 2015 and to **Key West,FL** in 2016.
 
 ## 🛠️ Skills
 
