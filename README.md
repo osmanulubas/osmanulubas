@@ -7,16 +7,6 @@
 
 ----
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osmanulubas" height="40" width="40" /> </a>
-<a href="https://linkedin.com/in/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmanulubas" height="40" width="40" /> </a>
-<a href="https://instagram.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osmanulubas" height="40" width="40" /> </a>
-<a href="https://www.leetcode.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osmanulubas" height="40" width="40" /> </a>
-</p>
-
-----
-
 <h3 align="left">Languages</h3>
 
 [![LeetCode user osmanulubas](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fosmanulubas&logo=leetcode&logoColor=yellow)](https://leetcode.com/osmanulubas/)
@@ -72,6 +62,16 @@
 <h3 align="left">Certificates</h3>
 
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/54f0bf66-32d4-49eb-afbc-c1387e727934/linked_in_profile)
+
+----
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osmanulubas" height="40" width="40" /> </a>
+<a href="https://linkedin.com/in/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmanulubas" height="40" width="40" /> </a>
+<a href="https://instagram.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osmanulubas" height="40" width="40" /> </a>
+<a href="https://www.leetcode.com/osmanulubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osmanulubas" height="40" width="40" /> </a>
+</p>
 
 ----
 
